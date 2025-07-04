@@ -1,4 +1,4 @@
-import XLogin from "./Xlogin";
+import XLogin from "./XLogin";
 import "./App.css";
 
 const App = () => {
